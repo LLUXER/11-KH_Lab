@@ -84,7 +84,7 @@ $$
 у = arctan(a/d) + (b + d)^2
 $$
 
-Обчислімо arctan(a/d):
+Обчислімо arctan(a / d):
 
 $$
 arctan(a/d) = arctan(75/5) = arctan(15)
