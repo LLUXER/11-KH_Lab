@@ -5,9 +5,11 @@ operator = input("enter operator: + - *(to multiply) /(divide) ")
 
 if operator == '+':
     print(num_a + num_b)
-if operator == '-':
+elif operator == '-':
     print(num_a - num_b)
-if operator == '*':
+elif operator == '*':
     print(num_a * num_b)
-if operator == '/':
+elif operator == '/':
     print(num_a / num_b)
+else:
+    print("Error")
